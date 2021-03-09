@@ -1,0 +1,13 @@
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.exe
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.deps.json
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.runtimeconfig.json
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.runtimeconfig.dev.json
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.dll
+D:\C##\ISKOLA\Fuggveny\Fuggveny\bin\Debug\netcoreapp3.1\Fuggveny.pdb
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.csprojAssemblyReference.cache
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.AssemblyInfoInputs.cache
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.AssemblyInfo.cs
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.csproj.CoreCompileInputs.cache
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.dll
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.pdb
+D:\C##\ISKOLA\Fuggveny\Fuggveny\obj\Debug\netcoreapp3.1\Fuggveny.genruntimeconfig.cache
